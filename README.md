@@ -1,8 +1,7 @@
 REQUISITOS PARA LEVATAR EL PROYECTO 
 
 1. instalar compose https://getcomposer.org/download/
-2. instalar Xampp para levantar el servidor en apache (se trrabajo con la version de php 8.2.12) https://www.apachefriends.org/es/index.html
-3. correr servidor desde consola  php artisan serve
+2. correr servidor desde consola  php artisan serve
 
 (por motivos de compativilidad no puede conectar el proyecto a una bd de sql server asi que obte por crear la api rest con la BD en sqllite)
 
