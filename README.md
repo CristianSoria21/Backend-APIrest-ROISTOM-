@@ -4,6 +4,7 @@ REQUISITOS PARA LEVATAR EL PROYECTO
 2. instalar Xampp para levantar el servidor en apache (se trrabajo con la version de php 8.2.12) https://www.apachefriends.org/es/index.html
 3. correr servidor desde consola  php artisan serve
 
+(por motivos de compativilidad no puede conectar el proyecto a una bd de sql server asi que obte por crear la api rest con la BD en sqllite)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
